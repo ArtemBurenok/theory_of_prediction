@@ -1,1 +1,1 @@
-# theory_of_prediction
+# Theory of prediction
